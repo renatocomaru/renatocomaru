@@ -1,6 +1,7 @@
 ### Hello, i'm Renato Comarú
 
-🌱
+🔭 Studying System Analysis and Development
+
 
 <h3> - Technologies </h3>
 
