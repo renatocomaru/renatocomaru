@@ -1,7 +1,42 @@
-### Hi there 👋
+### Hello, i'm Renato Comarú
+
+🌱
+
+<h3> - Technologies </h3>
+
+- Languages
+
+<div style="display: inline_block">
+    
+</div>
+<br>
+
+- Databases
+
+<div style="display: inline_block">
+    
+
+</div>
+<br>
+
+- Frameworks
+
+<div style="display: inline_block">
+  
+
+</div>
+
+<br>
+
+📫 How to reach me: rena.comaru@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)]([https://www.linkedin.com/in/renato-comarú-matos-732399234/])
+
+![Renato's github stats](https://github-readme-stats.vercel.app/api?username=renatocomaru&show_icons=true&theme=radical)
+
 
 <!--
-**renatocomaru/renatocomaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yurikb/yurikb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
