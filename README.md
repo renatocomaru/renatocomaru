@@ -1,4 +1,4 @@
-### Hello, i'm Renato Comarú
+### i'm Renato Comarú
 
 🔭 Studying System Analysis and Development
 
